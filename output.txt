@@ -1,0 +1,7 @@
+blitz 2
+conversion 2
+pass 2
+run 3
+sack 3
+tackle 2
+touchdown 2
